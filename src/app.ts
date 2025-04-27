@@ -1,6 +1,6 @@
 import express, {Request, Response, NextFunction} from 'express';
-import {PORT} from "./src/utils";
-import farmerRoutes from "./src/farmers/routes/farmerRoutes";
+import {PORT} from "./utils";
+import farmerRoutes from "./farmers/routes/farmerRoutes";
 
 const app = express();
 
