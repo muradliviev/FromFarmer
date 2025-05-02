@@ -1,5 +1,4 @@
 import Farmer from "../model/Farmer";
-import FarmerNewDto from "../dto/FarmerNewDto";
 
 export default interface FarmerService {
     addFarmer(farmer: Farmer): boolean

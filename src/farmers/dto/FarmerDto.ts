@@ -1,4 +1,5 @@
 export default class FarmerDto {
+
     ID_LTD: number;
     firstName: string;
     lastName: string;

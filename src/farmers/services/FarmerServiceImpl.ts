@@ -18,7 +18,7 @@ export default class FarmerServiceImpl implements FarmerService {
     updateFarmer(id: number, firstName: string, lastName: string, phoneNumber: string): Farmer {
         const farmer: Farmer[] = this.farmerRepository.readAll()
         const index = farmer.findIndex(s => s.ID_LTD === id);
-        if (index < 0) throw new Error(`Student with id ${id} not found`);
+        if (index < 0) throw new Error(`Farmer with id ${id} not found`);
         const result = farmer[index];
         result.firstName = firstName;
         result.lastName = lastName;

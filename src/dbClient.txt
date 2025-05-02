@@ -1,0 +1,34 @@
+[
+  {
+    "idNumber": 326598784,
+    "firstName": "Murad",
+    "lastName": "Liviev",
+    "phoneNumber": "+972585925257",
+    "email": "muradliviev@gmail.com",
+    "password": "98547521546"
+  },
+  {
+    "idNumber": 326562484,
+    "firstName": "Murad1",
+    "lastName": "Liviev1",
+    "phoneNumber": "+972585925257",
+    "email": "muradliviev@gmail.com",
+    "password": "98547521546"
+  },
+  {
+    "idNumber": 326000484,
+    "firstName": "Murad3",
+    "lastName": "Liviev3",
+    "phoneNumber": "+972585925257",
+    "email": "muradliviev@gmail.com",
+    "password": "98547521546"
+  },
+  {
+    "idNumber": 326001484,
+    "firstName": "Murad724",
+    "lastName": "Liviev74",
+    "phoneNumber": "+972585925254",
+    "email": "muradliviev@gmail.com",
+    "password": "98547521546"
+  }
+]
